@@ -3,7 +3,8 @@ Hi and welcome to my firs code and to the Game simulation "Rock Paper & Scissors
 The purpose of the code is to simulate a game where two participants have three options to choose from - "Rock" "Paper" "Scissors". The stone defeats the scissors. The scissors win the paper. The paper beats the stone. 
 
 --------------------------------------------------------------------------------------
-##**presented by..**
+#   **presented by:**
+
 NAME: benma@edu.hac.ac.il.
 
 ## Code input\output\ how to run
