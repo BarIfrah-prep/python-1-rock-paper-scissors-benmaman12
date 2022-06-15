@@ -1,22 +1,31 @@
 # Rock Paper Scissors!
-# Hi and welcome to your first assignment!
-Here, your goal is to create a simple "Rock, Paper, Scissors" game, with all the knowledge youv'e got so far.\
-This is the **README** file. a **README** file is a text, or as you can see here, an "MD" file,\
-where all of your program information (how to run, what is the input/output, and everything you think is nessecary for the understanding of your code).\
-I'll give you a template this time, but from here on you'll need to manage this by yourselves. Good luck!
+Hi and welcome to my firs code and to the Game simulation "Rock Paper & Scissors" !.
+The purpose of the code is to simulate a game where two participants have three options to choose from - "Rock" "Paper" "Scissors". The stone defeats the scissors. The scissors win the paper. The paper beats the stone. 
 
-# (Insert your project name here)
-say something about the assignement, what is this code doing, what is this code's goal..
-  **REPLACE THE ABOVE LINE OBVIOUSLY**
-
-## Who's submitting?
-NAME: email address.
-NEVER! Upload your credentials to github (ID number etc..)
+--------------------------------------------------------------------------------------
+##**presented by..**
+NAME: benma@edu.hac.ac.il.
 
 ## Code input\output\ how to run
-What is the input of this code?\
-What is the output of this code?\
-What do I need to do to run it?\
-Give one or two examples of input and output.
 
-### This is it! Your assignement instructions are attached in the repository. Good luck!
+Input codes 1 and 2 are User selection.
+
+Instructions for playing the game:
+
+
+
+      "ROCK"(1)     vs "SCISSORS"(3)  --> "ROCK"(1) wins\loss
+      "SCISSORS"(3) vs "PAPER"(2)     --> "SCISSORS"(3) wins\loss
+      "PAPER"(2)    vs "ROCK"(1)      --> "PAPER"(2) wins\loss
+      "SCISSORS"(3) vs "SCISSORS"(3)  --> draw
+      "PAPER"(2)    vs "PAPER(2)      --> draw
+      "ROCK"(1)     vs "ROCK(1)       --> draw
+    
+    
+    **This is it! Play now and enjoy!** 
+      
+      
+      
+
+
+
